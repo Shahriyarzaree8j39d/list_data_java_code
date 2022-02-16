@@ -1,0 +1,6 @@
+[
+  {
+    "عنوان": "list-animation",
+    "کد": "Animation animation;animation \u003d AnimationUtils.loadAnimation(\ngetApplicationContext(),android.R.anim.slide_in_left);animation.setDuration(500);linear1.startAnimation(animation); animation \u003d null;"
+  }
+]
